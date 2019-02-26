@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ABSUM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sugar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kiwi/kiwi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nprint/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../mini/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
@@ -47,6 +48,9 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/modify.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -260,12 +264,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sugar/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kiwi/kiwi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -280,12 +284,16 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java</dir>
+      <dir>$PROJECT_DIR$/src/main/java/exam</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -294,6 +302,9 @@
         <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/ABSUM.java" />
         <option value="$PROJECT_DIR$/src/main/java/sugar/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nprint/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exam/exam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kiwi/kiwi.java" />
       </list>
     </option>
   </component>
@@ -305,8 +316,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="426" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="854" />
     <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -315,6 +327,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,13 +358,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550662298758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551173962355" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -371,7 +383,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.kiwi">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="algorithmExam" />
@@ -379,8 +391,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nprint.Main" />
+      <module name="algorithmExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nprint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kiwi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kiwi.kiwi" />
+      <module name="algorithmExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kiwi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kiwi" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -399,18 +439,24 @@
       <workItem from="1550545350654" duration="241000" />
       <workItem from="1550553275749" duration="324000" />
       <workItem from="1550662214197" duration="87000" />
+      <workItem from="1550735248041" duration="607000" />
+      <workItem from="1550798116335" duration="5000" />
+      <workItem from="1550806864584" duration="3000" />
+      <workItem from="1550900878640" duration="892000" />
+      <workItem from="1551089464755" duration="3000" />
+      <workItem from="1551166963968" duration="5052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1644000" />
+    <option name="totallyTimeSpent" value="8206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
+    <frame x="426" y="23" width="854" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49369085" weight="0.28594506" />
+      <window_info id="Structure" order="1" sideWeight="0.50630915" side_tool="true" weight="0.27786753" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -451,6 +497,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sugar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exam/exam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nprint/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -458,10 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sugar/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kiwi/kiwi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
