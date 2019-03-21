@@ -1,4 +1,4 @@
-package sugar;
+package baekjoon.sugar;
 
 import java.util.Scanner;
 

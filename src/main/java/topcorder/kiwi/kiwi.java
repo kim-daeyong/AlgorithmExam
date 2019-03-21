@@ -1,4 +1,4 @@
-package kiwi;
+package topcorder.kiwi;
 
 public class kiwi {
         /**

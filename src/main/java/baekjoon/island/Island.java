@@ -1,4 +1,4 @@
-package island;
+package baekjoon.island;
 
 import java.util.LinkedList;
 import java.util.Queue;

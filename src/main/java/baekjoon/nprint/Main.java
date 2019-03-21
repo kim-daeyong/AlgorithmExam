@@ -1,4 +1,4 @@
-package nprint;
+package baekjoon.nprint;
 
 import java.util.Scanner;
 
