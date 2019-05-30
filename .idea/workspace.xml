@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/NoComplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Morespicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Trainingsuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/controller/TackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/repository/TaskRepostory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/resources/data.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDaoImpl.java" beforeDir="false" />
@@ -45,13 +52,9 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/modify.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ABSUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/ABSUM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/back4344/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/back4344/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/island/Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/island/Island.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kiwi/kiwi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topcorder/kiwi/kiwi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nprint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/nprint/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sugar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/sugar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/NoComplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/NoComplete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -256,6 +259,52 @@
       <change beforePath="$PROJECT_DIR$/../../minishop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../minishop/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../minishop/minishop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../minishop/minishop/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../minishop/minishop/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/PageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/PageDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/PageDaoSql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dao/UserDaoSql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dto/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/dto/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/java/my/example/spring/board/springboard/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboard/src/main/webapp/WEB-INF/views/calendar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/SpringboardApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/config/DataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/config/MainWebAppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/controller/BoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/BoardDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/BoardDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/BoardDaoSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/PageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/PageDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/PageDaoSql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dao/UserDaoSql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dto/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dto/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/dto/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/service/BoardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/service/BoardServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/java/my/example/spring/board/springboard/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/calendar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/calendar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/diarylist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/diarylist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/modify.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/read.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springdiary/src/test/java/my/example/spring/board/springboard/SpringboardApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -267,10 +316,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/NoComplete.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Morespicy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="502">
+              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -316,7 +365,9 @@
         <option value="$PROJECT_DIR$/src/main/java/programmers/cryptogram.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/ThreeSixNine.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/Frog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/trainingsuit.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/NoComplete.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/Morespicy.java" />
       </list>
     </option>
   </component>
@@ -377,29 +428,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="back4344" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmExam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmExam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553172237854" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559192800468" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -419,7 +461,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="algorithmExam" />
@@ -468,7 +510,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.kiwi" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
@@ -498,18 +539,19 @@
       <workItem from="1551791922238" duration="544000" />
       <workItem from="1551843058944" duration="1929000" />
       <workItem from="1552719141500" duration="2702000" />
-      <workItem from="1553073865687" duration="844000" />
+      <workItem from="1553073865687" duration="1006000" />
+      <workItem from="1559184075798" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14225000" />
+    <option name="totallyTimeSpent" value="16493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369085" visible="true" weight="0.29886913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369085" visible="true" weight="0.30371568" />
       <window_info id="Structure" order="1" sideWeight="0.50630915" side_tool="true" weight="0.27786753" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -637,10 +679,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Trainingsuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/NoComplete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Morespicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
         </state>
       </provider>
     </entry>
