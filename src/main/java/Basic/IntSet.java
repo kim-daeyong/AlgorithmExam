@@ -1,4 +1,4 @@
-package Basic.sort;
+package Basic;
 
 public class IntSet {
 
