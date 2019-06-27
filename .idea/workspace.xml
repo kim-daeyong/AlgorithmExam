@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/List/Linear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/String/BoyerMoore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/String/Brute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/String/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Tree/BinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/greedy/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/greedy/MeetingRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/dto/TaskDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDaoImpl.java" beforeDir="false" />
@@ -54,9 +48,6 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/sort/IntSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/IntSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/TargetNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programmers/TargetNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/WordChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/programmers/WordChain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -308,6 +299,10 @@
       <change beforePath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../springdiary/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../springdiary/src/test/java/my/example/spring/board/springboard/SpringboardApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../todolist/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../todolist/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/controller/TackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/repository/TaskRepostory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/repository/TaskRepostory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/service/TaskService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -318,20 +313,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Basic/List/Linear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="495" column="1" selection-start-line="495" selection-start-column="1" selection-end-line="495" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="345">
+              <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -353,6 +339,7 @@
       <dir>$PROJECT_DIR$/src/main/java/exam</dir>
       <dir>$PROJECT_DIR$/src/main/java</dir>
       <dir>$PROJECT_DIR$/src/main/java/Basic/sort</dir>
+      <dir>$PROJECT_DIR$/src/main/java/programmers</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -410,6 +397,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Basic/Tree/BinTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Basic/List/Linear.java" />
         <option value="$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java" />
       </list>
     </option>
   </component>
@@ -431,6 +419,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -462,20 +452,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560654299497" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561615985892" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -613,18 +601,19 @@
       <workItem from="1560310164693" duration="2502000" />
       <workItem from="1560390620933" duration="1134000" />
       <workItem from="1560403499534" duration="4339000" />
-      <workItem from="1560651513414" duration="2665000" />
+      <workItem from="1560651513414" duration="2879000" />
+      <workItem from="1561614772157" duration="1224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42522000" />
+    <option name="totallyTimeSpent" value="43960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369085" visible="true" weight="0.3489499" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369085" visible="true" weight="0.25605816" />
       <window_info id="Structure" order="1" sideWeight="0.50630915" side_tool="true" weight="0.27786753" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1067,6 +1056,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="268" column="1" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Basic/List/Linear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="653">
@@ -1074,10 +1070,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="345">
+          <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
         </state>
       </provider>
     </entry>
