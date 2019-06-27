@@ -32,4 +32,16 @@ public class ArrAverage {
     }
 
 
+    /*
+    다른사람
+
+        public int getMean(int[] array) {
+        return (int) Arrays.stream(array).average().orElse(0);
+    }
+
+하지만 속도가 별로라고 한다.
+
+
+     */
+
 }
