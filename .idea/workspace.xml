@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/dto/TaskDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
@@ -46,7 +48,9 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/ArrAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/MiddleWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -313,19 +317,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/MiddleWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+            <state relative-caret-position="227">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/ArrAverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -356,8 +378,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Helloworld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/ABSUM.java" />
         <option value="$PROJECT_DIR$/src/main/java/sugar/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/nprint/Main.java" />
@@ -407,6 +427,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Basic/Hash/Hash.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java" />
       </list>
     </option>
   </component>
@@ -417,10 +439,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="726" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="634" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -463,6 +484,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithmExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmExam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -472,7 +502,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561616974058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561642464812" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -544,7 +574,7 @@
       <module name="algorithmExam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="programmers.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -611,15 +641,15 @@
       <workItem from="1560390620933" duration="1134000" />
       <workItem from="1560403499534" duration="4339000" />
       <workItem from="1560651513414" duration="2879000" />
-      <workItem from="1561614772157" duration="1705000" />
+      <workItem from="1561614772157" duration="2420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44441000" />
+    <option name="totallyTimeSpent" value="45156000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369085" visible="true" weight="0.25605816" />
@@ -872,13 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Morespicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1011">
-          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/TargetNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -1079,17 +1102,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Morespicy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/MiddleWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/ArrAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
