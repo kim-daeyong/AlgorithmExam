@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/OddEven.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/dto/TaskDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
@@ -49,8 +48,6 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/ArrAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/MiddleWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/MiddleWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -344,10 +341,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/OddEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="525">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -378,7 +384,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ABSUM.java" />
         <option value="$PROJECT_DIR$/src/main/java/sugar/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/nprint/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/exam/exam.java" />
@@ -429,6 +434,7 @@
         <option value="$PROJECT_DIR$/src/main/java/programmers/ArrAverage.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/practice/OddEven.java" />
       </list>
     </option>
   </component>
@@ -502,7 +508,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561642464812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561679838003" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -641,12 +647,12 @@
       <workItem from="1560390620933" duration="1134000" />
       <workItem from="1560403499534" duration="4339000" />
       <workItem from="1560651513414" duration="2879000" />
-      <workItem from="1561614772157" duration="2420000" />
+      <workItem from="1561614772157" duration="3147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45156000" />
+    <option name="totallyTimeSpent" value="45883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -1123,6 +1129,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/StringToNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -1130,10 +1143,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/Subasubasusbau.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/OddEven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="46" />
         </state>
       </provider>
     </entry>
