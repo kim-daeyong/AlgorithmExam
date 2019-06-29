@@ -45,3 +45,24 @@ seoul	return
         System.out.println(kim.solution(names));
     }
 }
+
+
+/*
+
+    for(int i = 0; i < seoul.length; i++){
+        if(seoul[i].equals("Kim")){
+        x = i;
+      }
+    }
+
+        return "김서방은 "+ x + "에 있다";
+    }
+
+---
+        while(x<seoul.length){
+      if(seoul[x] == "Kim")
+        break;
+      else x++;
+    }
+
+ */
