@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9fd69c-46dc-4803-af19-9341826b0663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/OnlyNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../todolist/src/main/java/com/project/todolist/domain/dto/TaskDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/java/my/example/webBoard/BoardDao.java" beforeDir="false" />
@@ -47,7 +46,7 @@
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/read.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebBoard/src/main/webapp/WEB-INF/views/write.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/practice/OnlyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/practice/OnlyNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fastcampus3/NameCard/.idea/misc.xml" beforeDir="false" />
@@ -325,8 +324,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/OnlyNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="465">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -490,7 +489,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562492730694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562576394918" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -627,12 +626,12 @@
       <workItem from="1561943346959" duration="2170000" />
       <workItem from="1562223370479" duration="7193000" />
       <workItem from="1562397171142" duration="2345000" />
-      <workItem from="1562487207685" duration="2034000" />
+      <workItem from="1562487207685" duration="3503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64490000" />
+    <option name="totallyTimeSpent" value="65959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1184,8 +1183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/practice/OnlyNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="465">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>

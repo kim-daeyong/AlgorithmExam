@@ -16,24 +16,55 @@ s	return
 a234	false
 1234
      */
-
-    class Solution {
         public boolean solution(String s) {
-            boolean answer = true;
-//            char[] list = s.toCharArray();
-            if(s.length() == 6 || s.length() == 4) {
-                for (int i = 0; i <= s.length(); i++) {
-                    char chars = s.charAt(i);
-                    if(chars >'0'|| chars<'9'){
-
-                        return answer = false;
-                    }else{
-                        return answer = true;
+                    boolean answer = true;
+                    char[] charArr = s.toCharArray();
+                    if(charArr.length != 6 && charArr.length != 4) {
+                        return false;
                     }
+                    for (int i = 0; i < charArr.length; i++) {
+                        if (!(charArr[i] >= '0' && charArr[i] <= '9')) {
+                            return false;
+                        }
+                    }
+                    return answer;
                 }
-            }
 
-            return answer;
+                /*
+
+
+                 public boolean solution(String s) {
+      if(s.length() == 4 || s.length() == 6){
+          try{
+              int x = Integer.parseInt(s);
+              return true;
+          } catch(NumberFormatException e){
+              return false;
+          }
+      }
+      else return false;
+  }
+
+
+
+  public boolean solution(String s) {
+        if (s.length() == 4 || s.length() == 6) return s.matches("(^[0-9]*$)");
+        return false;
+  }
+
+
+
+       int length = s.length();
+        if (length != 4 && length != 6)
+            return false;
+        for (int i = 0; i < length; ++i) {
+            char c = s.charAt(i);
+            if (c < '0' || c > '9')
+                return false;
+
         }
-    }
+        return true;
+  }
+
+                 */
 }
