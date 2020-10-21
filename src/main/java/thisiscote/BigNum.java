@@ -16,7 +16,8 @@ public class BigNum {
             for(int i = 0; i<=k; i++){
                 if(m==0){
                     break;
-               result += a;
+                }
+                result += a;
                 m--;
             }
             if(m==0){
