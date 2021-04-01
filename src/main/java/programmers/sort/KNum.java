@@ -27,7 +27,7 @@ array               	commands	                        return
 
     //copyOfRange > array에서 from 부터 to 까지 잘라낸다.. 이걸 알기 전 까진 엄청 고생했는데 검색해서 찾아내니 엄청나게 짧아
 
-    public int[] solution(int[] array, int[][] commands) {
+    public static int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
 
         for(int i =0; i <commands.length; i++) {
@@ -42,9 +42,9 @@ array               	commands	                        return
     public static void main(String[] args) {
         int[] array = {1, 5, 2, 6, 3, 7, 4};
         int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
-        KNum kNum = new KNum();
-//        kNum.solution(array, commands);
-        System.out.println(kNum.solution(array, commands));
+        int[] result = solution(array, commands);
+        // System.out.println(result.length);
+        Arrays.stream(result).forEach(s -> System.out.println(s));
 
     }
 
