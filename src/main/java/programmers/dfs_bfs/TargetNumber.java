@@ -22,11 +22,15 @@ public class TargetNumber {
         }
 
         int result = 0;
-        index = index;
+        int a1 = sum + numbers[index];
+        int a2 = sum - numbers[index];
+        int s1 = a1 + a2;
+        System.out.println("plus " + index + " :   " + a1);
         int c1 = dfs(index+1, sum + numbers[index], numbers, target);
+        System.out.println("minus " + index + " :  " + a2);
         int c2 = dfs(index+1, sum - numbers[index], numbers, target);
         result = c1 + c2;
-
+        System.out.println(result);
         return result;
 
     }
