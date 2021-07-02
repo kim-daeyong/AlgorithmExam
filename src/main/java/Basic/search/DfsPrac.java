@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 import Basic.Queue;
 
-public class DfsBfs {
+public class DfsPrac {
 
     /*
 5 4 5

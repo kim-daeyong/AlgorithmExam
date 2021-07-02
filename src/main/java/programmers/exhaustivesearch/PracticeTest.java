@@ -12,7 +12,7 @@ public class PracticeTest {
         int[] answers2 = {1,3,2,4,2};
         int[] result = solution(answers);
 
-        Arrays.stream(result).forEach(System.out::println);
+        System.out.println(Arrays.toString(result));
     }
 
     // 1번 수포자가 찍는 방식: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, ...
